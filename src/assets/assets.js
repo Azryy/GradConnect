@@ -10,6 +10,8 @@ import computer from './computer.png'
 import engineer from './engineer.png'
 import bag from './bag.png'
 import people from './people.png'
+import twitter from './twitter_icon.png'
+import facebook from './facebook_icon.png'
 
 
 
@@ -25,6 +27,9 @@ export const assets = {
     computer,
     engineer,
     bag,
-    people
+    people,
+    facebook,
+    twitter
+   
    
 }
